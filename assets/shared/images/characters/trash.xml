@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fraudBF.png">
+<SubTexture name="fraudBF idle0000" x="835" y="1095" width="425" height="509" frameX="-115" frameY="-73" frameWidth="596" frameHeight="617" />
+<SubTexture name="fraudBF idle0001" x="416" y="1095" width="419" height="516" frameX="-115" frameY="-66" frameWidth="596" frameHeight="617" />
+<SubTexture name="fraudBF idle0002" x="0" y="1095" width="416" height="520" frameX="-115" frameY="-61" frameWidth="596" frameHeight="617" />
+<SubTexture name="fraudBF idle0003" x="1245" y="531" width="410" height="527" frameX="-115" frameY="-54" frameWidth="596" frameHeight="617" />
+<SubTexture name="fraudBF down0000" x="1260" y="1095" width="425" height="500" frameX="-104" frameY="-82" frameWidth="596" frameHeight="617" />
+<SubTexture name="fraudBF down0001" x="1712" y="0" width="430" height="492" frameX="-101" frameY="-90" frameWidth="596" frameHeight="617" />
+<SubTexture name="fraudBF left0000" x="778" y="0" width="467" height="533" frameX="-48" frameY="-47" frameWidth="596" frameHeight="617" />
+<SubTexture name="fraudBF left0001" x="456" y="563" width="457" height="532" frameX="-58" frameY="-48" frameWidth="596" frameHeight="617" />
+<SubTexture name="fraudBF right0000" x="1245" y="0" width="467" height="531" frameX="-123" frameY="-49" frameWidth="596" frameHeight="617" />
+<SubTexture name="fraudBF right0001" x="0" y="563" width="456" height="532" frameX="-119" frameY="-48" frameWidth="596" frameHeight="617" />
+<SubTexture name="fraudBF up0000" x="0" y="0" width="389" height="563" frameX="-103" frameY="-18" frameWidth="596" frameHeight="617" />
+<SubTexture name="fraudBF up0001" x="389" y="0" width="389" height="555" frameX="-103" frameY="-27" frameWidth="596" frameHeight="617" />
+</TextureAtlas>
