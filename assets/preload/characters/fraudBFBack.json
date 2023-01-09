@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "fraudBF idle"
+		},
+		{
+			"offsets": [
+				3,
+				1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fraudBF down"
+		},
+		{
+			"offsets": [
+				1,
+				-5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fraudBF up"
+		},
+		{
+			"offsets": [
+				-11,
+				1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fraudBF right"
+		},
+		{
+			"offsets": [
+				2,
+				1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fraudBF left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fraudBF",
+	"position": [
+		1090,
+		210
+	],
+	"healthicon": "fraud",
+	"flip_x": true,
+	"healthbar_colors": [
+		107,
+		168,
+		184
+	],
+	"camera_position": [
+		-540,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
